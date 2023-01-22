@@ -12,5 +12,3 @@ title: Home
 
 ### Arizona State University, Class: EGR 314 PM Session, Professor Travis Kelley
 
-
-[Assignments](https://github.com/Team307/Team307.github.io/tree/main/Assignments)
