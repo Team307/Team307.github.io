@@ -35,4 +35,4 @@
 
 [**Appendix B: User Needs, Benchmarking, and Requirements**](https://team307.github.io/Appendix-B-User-Needs/)
 
-[**Appendix C: Design Ideation](https://team307.github.io/Appendix-C-Design-Ideation/)
+[**Appendix C: Design Ideation**](https://team307.github.io/Appendix-C-Design-Ideation/)
