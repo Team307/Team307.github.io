@@ -1,7 +1,8 @@
 [Team Organization](https://team307.github.io/Team-Organization/) | [User Needs](https://team307.github.io/User-Needs-Benchmarking-and-Requirements/) | [Design Ideation](https://team307.github.io/Design-Ideation/)
 
 ---
-# title: Home 
+layout: default
+title: Home
 ---
 
 <br/>
