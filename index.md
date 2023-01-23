@@ -1,7 +1,7 @@
 [Home](https://team307.github.io) | [Team Organization](https://team307.github.io/Team307_Organization) | [User Needs](https://team307.github.io/User-Needs-Benchmarking-and-Requirements/)
 
 ---
-title: Home 
+# title: Home 
 ---
 
 # Project Name: Mobile Environmental Sensing
