@@ -31,6 +31,6 @@
 ## Appendices
 ---
 
-[**Appendix A: Team Organization**](https://team307.github.io/Apendix-A-Team-Organization/)
+[**Appendix A: Team Organization**](https://team307.github.io/Appendix-A-Team-Organization/)
 
 [**Appendix B: User Needs, Benchmarking, and Requirements**](https://team307.github.io/Appendix-B-User-Needs/)
