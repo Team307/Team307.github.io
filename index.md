@@ -1,5 +1,5 @@
 ---
-title: Home 
+[Home], [**Team Organization**](https://team307.github.io/Team307_Organization), 
 ---
 
 # Project Name: Mobile Environmental Sensing
