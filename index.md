@@ -1,4 +1,4 @@
-[Home](https://team307.github.io) | [Team Organization](https://team307.github.io/Team307_Organization) | [User Needs](https://team307.github.io/User-Needs-Benchmarking-and-Requirements/)
+[Home](https://team307.github.io) | [Team Organization](https://team307.github.io/Team-Organization/) | [User Needs](https://team307.github.io/User-Needs-Benchmarking-and-Requirements/)
 
 ---
 # title: Home 
