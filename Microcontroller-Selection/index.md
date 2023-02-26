@@ -1,4 +1,4 @@
-[Home](https://team307.github.io/) | [Appendix F](https://team307.github.io/Appendix-F-Microcontroller-Selection/)
+[Home](https://team307.github.io/) | 
 
 ---
 # MicroController Selection

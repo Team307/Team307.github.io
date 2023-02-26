@@ -1,4 +1,4 @@
-[Home](https://team307.github.io/) | [Appendix C](https://team307.github.io/Appendix-C-Design-Ideation/)
+[Home](https://team307.github.io/) | 
 
 ---
 # Design Ideation

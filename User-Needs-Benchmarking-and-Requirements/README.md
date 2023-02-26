@@ -1,5 +1,4 @@
-[Home](https://team307.github.io) | [Appendix B](https://team307.github.io/Appendix-B-User-Needs/)
-
+[Home](https://team307.github.io) |
 ---
 # User Needs, Benchmarking, and Requirements
 ---

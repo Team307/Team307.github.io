@@ -1,4 +1,4 @@
-[Home](https://team307.github.io/) | [Appendix E](https://team307.github.io/Appendix-E-Component-Selection/)
+[Home](https://team307.github.io/) | 
 
 ---
 # Component Selection
