@@ -1,4 +1,4 @@
-[Home](https://team307.github.io) | [Team Organization](https://team307.github.io/Team-Organization/)
+[Home](https://team307.github.io) | 
 
 ---
 # Apendix A Team Organization
