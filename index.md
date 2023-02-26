@@ -1,19 +1,3 @@
-[Team Organization](https://team307.github.io/Team-Organization/) | [User Needs](https://team307.github.io/User-Needs-Benchmarking-and-Requirements/) | [Design Ideation](https://team307.github.io/Design-Ideation/) | [Presentation](https://team307.github.io/Presentation/)
-
-<br/>
-
----
-**Table of Contents**  
-
-- [Home](#Home)
-- [Team Organization](#Team-Organization)
-    - [Summary](#summary)
-    - [Team Charter](#team-charter)
-    - [Product Mission Statement](#product-mission-statement)
-  - [Master Appendix](#master-appendix)
-  
-  <br/>
-
 ---
 # Home
 ---
@@ -40,6 +24,19 @@
 
 <br/>
   <br/>
+
+---
+**Table of Contents**  
+
+- [Home](#Home)
+- [Team Organization](#Team-Organization)
+    - [Summary](#summary)
+    - [Team Charter](#team-charter)
+    - [Product Mission Statement](#product-mission-statement)
+  - [Master Appendix](#master-appendix)
+
+  <br/>
+
 
 ---
 # Team Organization 
