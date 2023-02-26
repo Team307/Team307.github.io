@@ -28,7 +28,7 @@
   <br/>
 
 ---
-## Appendices
+## Master Appendix
 ---
 
 [Appendix](https://team307.github.io/Appendix/)
