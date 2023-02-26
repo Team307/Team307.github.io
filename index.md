@@ -4,7 +4,10 @@
 
 - [Home](#Home)
 - [Team Organization](#Team-Organization)
-  
+    - [Summary](#summary)
+    - [Team Charter](#team-charter)
+    - [Product Mission Statement](#product-mission-statement)
+  - [Master Appendix](#master-appendix)
 ---
 # Home
 ---
