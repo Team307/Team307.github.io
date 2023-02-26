@@ -325,7 +325,7 @@ _this is where our summary will go
 
 
 ---
-## Master Appendix
+# Master Appendix
 ---
 
 [Appendix](https://team307.github.io/Appendix/)
