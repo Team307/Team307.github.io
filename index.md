@@ -33,7 +33,7 @@
     - [Summary](#summary)
     - [Team Charter](#team-charter)
     - [Product Mission Statement](#product-mission-statement)
-  - [Master Appendix](#master-appendix)
+- [Master Appendix](#master-appendix)
 
   <br/>
 
