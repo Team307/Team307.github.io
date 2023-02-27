@@ -8,7 +8,7 @@
 
 ## Summary
 
-_this is where our summary will go
+_ Our schematic shown below
 
 <br/>
 
