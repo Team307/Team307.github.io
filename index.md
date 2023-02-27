@@ -316,7 +316,7 @@ _this is where our summary will go
 
 _ The Block Diagram is essential for our electrical system design and clearly illustrates which subsystem belongs to who. Each group member is in charge of testing and debugging in order to verify that the subsystem works and is prepared to be tested for the completed subsystem. For Team 307's approach on our block Diagram, we organized the important architecture of our hardware and displayed how the systems are interconnected for working functionality. Included in this Diagram is our ESP32 WiFi modulator which allows for RX/TX communication which allows for sending and receiving information, our Humidity Sensor, and our temperature sensor which meets the criteria for this course to include two serial sensors, the MicroController and the Motor/Motor Driver which fulfills the actuator requirement for our design. 
 
-The TC74 temperature sensor manufactured by Microchip is a serial sensor that measures the temperature. it can measure temperatures between -40C to 125C and outputs information using I2C. the voltage supply range for this sensor is a minimum of 2.7V to 5.5V. This sensor will be surface mounted onto the PCB board.
+
 
 <br/>
 
@@ -327,23 +327,50 @@ The TC74 temperature sensor manufactured by Microchip is a serial sensor that me
 
 <br/>
 
-## Summary
+## Approach to Part Selection
 
 
-_this is where we will add a summary
+Group 307 read the class projects course requirements very closely to ensure that we were not looking at parts that were deemed unusable for our electrical design. WHile doing research on components, we focused on parts that incorporated detailed datasheets as well as immediate accessibility. With current microchip and manufacturing issues across the globe we wanted to be certain that we had immediate access to start testing and debugging our current concept selection.
 
+<br/>
+
+## HIH6030 Humidity Sensor
 
 <br/>
 
 ![Humidity sensor component](https://user-images.githubusercontent.com/122499832/221627479-56b7943b-d2bd-48f0-9f3b-e0fa425c0626.PNG)
 
 <br/>
+ The HIH6030 Sensor is manufactured by Honeywell and has the ability to sense humidty and temperature, however, our group will only be implementing the humidity sensor for this component. Below are a few reasons why we pursued with this sensor for our system.
+ 
+ * I2C output
+ * Humidity snese range is between 0%-100% with a 4.5% accuracy
+ * voltage supply is 2.3V-5.5V
+ * Surface mountable
+ * Readily Available
 
+
+<br/>
+![Temp Sensor component](https://user-images.githubusercontent.com/122499832/221627556-d35612f9-6038-49d7-8d84-1cfa175ce3a7.PNG)
+
+<br/>
+
+The TC74 temperature sensor manufactured by Microchip is a serial sensor that measures the temperature. it can measure temperatures between -40C to 125C and outputs Data using I2C. the voltage supply range for this sensor is a minimum of 2.7V to 5.5V. This sensor will be surface mounted onto the PCB board.
+
+<br/>
+
+## PNN7RE08JD Motor
+
+<br/>
 
 ![Motor Component](https://user-images.githubusercontent.com/122499832/221627503-67d84ce6-249a-46b1-a6ac-d04b53e3858f.PNG)
 
 <br/>
 
+Manufactured by NMB Technologies, is a standard DC motor with an RPM rating of 16364 RPMs. We went with this motor specifically due to its long shaft, this allows our group to easily mount with the internal spray bottle. The voltage 
+
+
+<br/>
 
 ![Motor Driver Component](https://user-images.githubusercontent.com/122499832/221627518-9875718c-5160-4cdd-a185-358a5cafe405.PNG)
 
@@ -353,7 +380,7 @@ _this is where we will add a summary
 <br/>
 
 
-![Temp Sensor component](https://user-images.githubusercontent.com/122499832/221627556-d35612f9-6038-49d7-8d84-1cfa175ce3a7.PNG)
+
 
 <br/>
 
@@ -369,7 +396,7 @@ _this is where we will add a summary
 ## Current Power Budget
 
 
-For our group to be certain that the components that we had selected will indeed work with our electrical design, we created a power budget for the overall system which displays usage across voltage, amps, etc.
+Each of our components was easily accessible from the distributors purchasing sites and provided all the information we needed to conduct a power budget table. For our group to be certain that the components that we had selected will indeed work with our electrical design, we created a power budget for the overall system which displays usage across voltage, amps, etc.
 
 <br/>
 ![Power Budget](https://user-images.githubusercontent.com/122499832/221688349-ea4c20e0-cd1e-46c1-8aa1-41d0110068a6.PNG)
