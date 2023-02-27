@@ -56,6 +56,7 @@
 - [Selected Design](#selected-design)
 - [Block Diagram](#block-diagram)
 - [Component Selection](#component-selection)
+- [Power Budget](#power-budget)
 - [Microcontroller Selection](#microcontroller-selection)
 - [Hardware Proposal](#hardware-proposal)
 - [Software Proposal](#software-proposal)
