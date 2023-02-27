@@ -2,12 +2,6 @@
 # Home
 ---
 
-<body>
-    <h1>Team PCB Schematic</h1>
-    <iframe src="Top.and.Bottom.pdf" width="100%" height="500px">
-    </iframe>
-  </body>
-
 
 <br/>
 
