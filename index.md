@@ -291,6 +291,17 @@ In our second design concept, we will have an enclosed water reservoir with a sp
 
 Our third concept, similar to our second, will have an enclosed water tank to be sprayed using a mister. Though this design would measure ambient temperature and humidity and would use a combination of adjusting fan speed and spraying water to reach the desired temperature and humidity levels. The internals will be encased in a plastic octagonal casing with a tapered top where the sensors, misters, and fans will be placed.*
 
+---
+# Selected Design
+---
+
+<br/>
+
+## Summary
+
+_this is where our summary will go
+
+---
 # Block Diagram
 ---
 
@@ -322,7 +333,25 @@ _this is where we will add a summary
 
 _this is where our summary will go
 
+---
+# Hardware Proposal
+---
 
+<br/>
+
+## Summary
+
+_this is where our summary will go
+
+---
+# Software Proposal
+---
+
+<br/>
+
+## Summary
+
+_this is where our summary will go
 
 ---
 # Master Appendix
