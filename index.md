@@ -105,7 +105,7 @@ Our group believes we have knowledgeable team members and strong-minded individu
 
 <br/>
 
-## Summary
+
 
 _The User Needs assignment was the kick-off to our group's brainstorming for this project, we did not know entirely what our project will end up being but came up with ideas shortly after understanding what the project description was asking for out of us. First, we invested our time in the project description to truly understand what we can and cannot have included in our design. Afterward, we individually did research on similar products and created a VOC chart. We found products that were like the theme of our project was and looked at positive and negative reviews and pulled out what was explicitly and latently being called out in the review. This helped our group weigh out the important needs for what our users will be expecting or should expect._
 
@@ -323,7 +323,7 @@ In our second design concept, we will have an enclosed water reservoir with a sp
 ## Summary
 
 
-_ The Block Diagram is essential for our electrical system design and clearly illustrates which subsystem belongs to who. Each group member is in charge of testing and debugging in order to verify that the subsystem works and is prepared to be tested for the completed subsystem. For Team 307's approach on our block Diagram, we organized the important architecture of our hardware and displayed how the systems are interconnected for working functionality. Included in this Diagram is our ESP32 WiFi modulator which allows for RX/TX communication which allows for sending and receiving information, our Humidity Sensor, and our temperature sensor which meets the criteria for this course to include two serial sensors, the MicroController and the Motor/Motor Driver which fulfills the actuator requirement for our design. 
+The Block Diagram is essential for our electrical system design and clearly illustrates which subsystem belongs to who. Each group member is in charge of testing and debugging in order to verify that the subsystem works and is prepared to be tested for the completed subsystem. For Team 307's approach on our block Diagram, we organized the important architecture of our hardware and displayed how the systems are interconnected for working functionality. Included in this Diagram is our ESP32 WiFi modulator which allows for RX/TX communication which allows for sending and receiving information, our Humidity Sensor, and our temperature sensor which meets the criteria for this course to include two serial sensors, the MicroController and the Motor/Motor Driver which fulfills the actuator requirement for our design. 
 
 
 
@@ -384,17 +384,18 @@ Manufactured by NMB Technologies, is a standard DC motor with an RPM rating of 1
 ![Motor Driver Component](https://user-images.githubusercontent.com/122499832/221627518-9875718c-5160-4cdd-a185-358a5cafe405.PNG)
 
 <br/>
-![OP Amp Component](https://user-images.githubusercontent.com/122499832/221627542-001a0123-6482-4c05-b42e-3d4b7429123b.PNG)
 
-<br/>
-
-
+This motor driver is already readily available to us. We did not need to worry about order times and so we could already start working and troubleshooting with this device. Due to already using it for a previous assignment, we are already familiar with how it operates and works. It meets our requirements and is able to complete the desired function needed for our design.
 
 
 <br/>
 
-![voltage regulator component](https://user-images.githubusercontent.com/122499832/221627562-1a6af0df-b336-4166-97a1-ef40b0b0c475.PNG)
+![Switching voltage](https://user-images.githubusercontent.com/122499832/221717772-09a840c1-6111-45c4-b536-fdb6c7ce73a4.png)
 
+
+<br/>
+
+The class requirement needs us to  use a switching voltage regulator. This one matches this requirement as well as is in the proper voltage range of 3.3V. It also will provide enough amperage for running all of our schematics.
 
 ---
 # Power budget
@@ -408,6 +409,7 @@ Manufactured by NMB Technologies, is a standard DC motor with an RPM rating of 1
 Each of our components was easily accessible from the distributors purchasing sites and provided all the information we needed to conduct a power budget table. For our group to be certain that the components that we had selected will indeed work with our electrical design, we created a power budget for the overall system which displays usage across voltage, amps, etc.
 
 <br/>
+
 ![Power Budget](https://user-images.githubusercontent.com/122499832/221688349-ea4c20e0-cd1e-46c1-8aa1-41d0110068a6.PNG)
 
 
@@ -421,13 +423,13 @@ Each of our components was easily accessible from the distributors purchasing si
 
 Our group 307 sat and researched multiple chips that would work best for our electrical design and we determined that the PIC18F27Q10 Microcontroller was the best fit. we decided to utilize and interpret this microcontroller based on the following attributes the microcontroller has.
 
-    * Supply voltage ranges 1.8V-5.5V
-    * inexpensive compared to other microcontrollers
-    * 28 GPIO pins
-    * Max GPIO pin current is 50mA
-    * Supports esternal interupts
-    * Surface mount and through hole packages
-    * Works with MPLAB and Microchip Code Configurator
+  * Supply voltage ranges 1.8V-5.5V
+  * inexpensive compared to other microcontrollers
+  * 28 GPIO pins
+  * Max GPIO pin current is 50mA
+  * Supports esternal interupts
+  * Surface mount and through hole packages
+  * Works with MPLAB and Microchip Code Configurator
 
  This microcontroller satisfies project-specific requirements and the Microcontroller also comes with the adequate data sheets needed to supply our group with the necessary information to function our group design properly. there is plenty of sample code available via Microchip as well as other trusted resources.
 
@@ -448,6 +450,8 @@ The voltage regulator and MCC sub systems were designed Sam Masamitsu. The switc
 <br/>
 
 ![Hardware proposal](https://user-images.githubusercontent.com/122499832/221630965-3e4ceec1-c1fe-45eb-baf8-05caca0964b6.PNG)
+
+
 ---
 # Software Proposal
 ---
