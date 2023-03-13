@@ -315,6 +315,8 @@ Our third concept, similar to our second, will have an enclosed water tank to be
 
 <br/>
 
+When determining what design to go with out of the three that we had sketched, our group decided that our second design approach was the best pathway. We felt that the particular design had the best ideas from designs one and three and we did not include any other design ideas that weren't already there. Our decision for picking this design was made by setting up a discord meeting and discussing what would be simple yet fun to build and we all agreed that design two was the best option. The design that we pursued does not deviate from the design ideation section.
+
 ![Design Concept 2](https://user-images.githubusercontent.com/122499998/213979192-374ce69b-720a-4d42-b3d8-adfbf4cf4eeb.svg)
 
 <br/>
