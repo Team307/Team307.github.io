@@ -340,7 +340,7 @@ The Block Diagram is essential for our electrical system design and clearly illu
 
 <br/>
 
-![Block Diagram](https://user-images.githubusercontent.com/122499832/221600386-8ae7100f-470d-4bf5-ae39-4898ea31ec91.PNG)
+![Updated Block Diagram](https://user-images.githubusercontent.com/122499832/224817966-a243a1db-2273-44ef-b5c6-642bce38d7ce.PNG)
 ---
 # Component Selection
 ---
