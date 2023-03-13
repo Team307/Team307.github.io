@@ -67,6 +67,19 @@
 
 
 ---
+# Introduction
+---
+
+ <br/>
+
+The Innovation Showcase is an event held at Arizona State University for upper divisional engineering students that showcase their final project to their professors and stakeholders as well as other students that visit and public. The main focus of this event is to explore what engineering students have developed over the course of the semester and see how they apply the knowledge they have gained and infuse it into a functional design. Specifically for Engineering 314 students, their project is to produce a system that interacts and corresponds with the environment and is required to use serial sensing and actuation. Another requirement is that their project/design must broadcast their environmental data using WiFi using the MQTT protocol. Students must include a design that senses at least two environmental conditions and two separate serial sensors. It is also required in the plan to include at least one motor controlled by a motor controller over I2C or SPI-based protocol. The working product of the engineering groups will be presented at the showcase on April 28th, 2023, and will be evaluated by professors for correct functionality as well as meeting the course requirements.
+
+Members of Group 307 have collaborated with each other to determine the ultimate weather device that meets course requirements while maintaining a simplistic approach in order to ensure a fully functional device to display at the showcase. Our design consists of electrical components that will correspond with one another to determine the temperature and humidity of an enclosed environment. Our design will have inexpensive parts and will utilize components that are supplied within the campus. The mechanical parts will also be inexpensive and easily replaceable if lost or damaged. The groups focus on creating a simple software environment and coding aspects that will be user-friendly to anyone who engages with our product.
+
+
+<br/>
+
+---
 # Team Organization 
 ---
 
@@ -116,11 +129,7 @@ _Next, we created a Jam Board of sixty needs that our product should have to be 
 <br/>
   <br/>
 
-## Introduction
 
-The Innovation Showcase is an event held at Arizona State University for upper divisional engineering students that showcase their final project to their professors and stakeholders as well as other students that visit and public. The main focus of this event is to explore what engineering students have developed over the course of the semester and see how they apply the knowledge they have gained and infuse it into a functional design. Specifically for Engineering 314 students, their project is to produce a system that interacts and corresponds with the environment and is required to use serial sensing and actuation. Another requirement is that their project/design must broadcast their environmental data using WiFi using the MQTT protocol. Students must include a design that senses at least two environmental conditions and two separate serial sensors. It is also required in the plan to include at least one motor controlled by a motor controller over I2C or SPI-based protocol. The working product of the engineering groups will be presented at the showcase on April 28th, 2023, and will be evaluated by professors for correct functionality as well as meeting the course requirements.
-
-<br/>
 
 ## Objectives
 
