@@ -469,20 +469,22 @@ The voltage regulator and MCC sub systems were designed Sam Masamitsu. The switc
 
 ## Software Approach
 
-In group 307 we discussed many approaches on how we wanted our software to run with the goal of meeting our stakeholders need and keeping it relatively simple and easy to understand. The software is divided into 4 sections
+The Software Proposal was created in our group in order to capture the software flow and visually explain what is being done in the background that operates all our electrical components in a fluid environment. This diagram does not display any actual code but expresses the design's software functionality Our group had discussed many approaches to how we wanted our software to run with the goal of meeting our stakeholder's needs and keeping it relatively simple and easy to understand. We discussed that when we created the software it needs to be straightforward with a focus on LED lights in appropriate areas to help discover bugs and to make testing and debugging easy. Our group will be primarily using MPLab and MCC to program our microcontroller and sensors.
+
+The software is divided into 4 sections:
 
 * Main Loop
 * Initialize System
 * Refresh System
 * Motor Drivers
 
-In tne Main loop, after the system initialized and determines the state of where the software it is at is when our interupts are enabled. it then reads sensor data and interprets data, if the required value isnt read then it will loop back unti a vaule that is read signals to engage the mister.
-
-
 <br/>
 
 ![Software proposal](https://user-images.githubusercontent.com/122499832/221631599-f506c8b4-5f93-4796-b639-2d4937a4d93f.PNG)
 
+<br/>
+
+In the Main loop; after the system initialized and determines the state of where the software it is at is when our interrupts are enabled. This is where the weather/ climate data is received,  The program then reads sensor data and interprets the data. At this stage of the software is when the system enables the interrupt,  if the required value isn't read then it will loop back until a value that is read signals to engage the mister.
 
 ---
 # Master Appendix
