@@ -94,13 +94,13 @@ _In EGR 314 we formed our group with four members and became group 307. The firs
 
 ## Team Charter
 
-Our team strives to have a successful product, we believe that with concise communication and dedication to hard work, and schedule commitment, we can achieve our goals.
+**Our team strives to have a successful product, we believe that with concise communication and dedication to hard work, and schedule commitment, we can achieve our goals.**
 
-A product that meets our stakeholder’s expectations, working with no bugs or other interruptions that can hold the product from being a complete product.
-Not only receiving an A on the project but also being able to understand and explain fluidly how the system works.
-Building a professional relationship with group members and faculty through thoughtful questions, respectful answers, and clear communication.
-Expanding our individual knowledge and skill sets through peer guidance and teaching. We will allow ourselves to not only be available for teaching but to be taught.
-Holding ourselves and our team members accountable to the tasks assigned and the standards set forth in this charter. This will create an environment where we are working together as peers toward our common goals.
+**A product that meets our stakeholder’s expectations, working with no bugs or other interruptions that can hold the product from being a complete product.**
+**Not only receiving an A on the project but also being able to understand and explain fluidly how the system works.**
+**Building a professional relationship with group members and faculty through thoughtful questions, respectful answers, and clear communication.**
+**Expanding our individual knowledge and skill sets through peer guidance and teaching. We will allow ourselves to not only be available for teaching but to be taught.**
+**Holding ourselves and our team members accountable to the tasks assigned and the standards set forth in this charter. This will create an environment where we are working **together as peers toward our common goals.**
 
 <br/>
 
