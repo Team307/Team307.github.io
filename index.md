@@ -350,7 +350,12 @@ The Block Diagram is essential for our electrical system design and clearly illu
 ## Approach to Part Selection
 
 
-Group 307 read the class projects course requirements very closely to ensure that we were not looking at parts that were deemed unusable for our electrical design. WHile doing research on components, we focused on parts that incorporated detailed datasheets as well as immediate accessibility. With current microchip and manufacturing issues across the globe we wanted to be certain that we had immediate access to start testing and debugging our current concept selection.
+Group 307 read the class projects course requirements very closely to ensure that we were not looking at parts that were deemed unusable for our electrical design. While doing research on components, we focused on parts that incorporated detailed datasheets as well as immediate accessibility. With current microchip and manufacturing issues across the globe we wanted to be certain that we had immediate access to start testing and debugging our current concept selection.
+
+To begin comparing possible components that would be necessary to create each system for our project we would first consider components that we worked with in class. Since we are familiar with them, having had to create working code and circuitry for previous assignments these would set our standards for other components. We first listed out the pros and cons of the parts we used in previous assignments then we would look for similar components that would offer solutions to the cons we had listed. For subsystems that required a part not used in a previous assignment we would choose a few components that each had different strengths and weaknesses.  
+
+Once our possible choices were listed out we then chose the best option prioritizing ease of use, such as a package size manageable enough to hand solder as well as familiarity working with the component. 
+
 
 <br/>
 
@@ -371,6 +376,11 @@ Group 307 read the class projects course requirements very closely to ensure tha
 
 
 <br/>
+
+## TC1047VNBTR Temp Sensor
+
+<br/>
+
 ![Temp Sensor component](https://user-images.githubusercontent.com/122499832/221627556-d35612f9-6038-49d7-8d84-1cfa175ce3a7.PNG)
 
 <br/>
@@ -392,6 +402,10 @@ Manufactured by NMB Technologies, is a standard DC motor with an RPM rating of 1
 
 <br/>
 
+## IFX9201SGAUMA1 Motor Driver
+
+<br/>
+
 ![Motor Driver Component](https://user-images.githubusercontent.com/122499832/221627518-9875718c-5160-4cdd-a185-358a5cafe405.PNG)
 
 <br/>
@@ -401,12 +415,18 @@ This motor driver is already readily available to us. We did not need to worry a
 
 <br/>
 
+## MAX5033AASA+ Switching Voltage Regulator
+
+<br/>
+
 ![Switching voltage](https://user-images.githubusercontent.com/122499832/221717772-09a840c1-6111-45c4-b536-fdb6c7ce73a4.png)
 
 
 <br/>
 
 The class requirement needs us to  use a switching voltage regulator. This one matches this requirement as well as is in the proper voltage range of 3.3V. It also will provide enough amperage for running all of our schematics.
+
+
 
 ---
 # Power budget
@@ -423,6 +443,9 @@ Each of our components was easily accessible from the distributors purchasing si
 
 ![Power Budget](https://user-images.githubusercontent.com/122499832/221688349-ea4c20e0-cd1e-46c1-8aa1-41d0110068a6.PNG)
 
+<br/>
+
+We calculated both the maximum power draw as well as the power draw under normal operating conditions. These calculations were used to choose a power supply that could operate our system at max power for an hour. It was also used to ensure each power rail could safely  support the current being drawn by each component.
 
 ---
 # MicroController Selection
