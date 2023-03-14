@@ -485,8 +485,11 @@ The voltage regulator and MCC sub systems were designed Sam Masamitsu. The switc
 
 <br/>
 
-![Hardware proposal](https://user-images.githubusercontent.com/122499832/221630965-3e4ceec1-c1fe-45eb-baf8-05caca0964b6.PNG)
+![Hardware proposal](https://user-images.githubusercontent.com/122499832/224883252-77c22bdd-7ef4-4a4f-af9c-c1d73b988ae1.jpg)
 
+<br/>
+
+![Hardware proposal: BOM](https://user-images.githubusercontent.com/122499832/224884751-1d075938-44c8-49a7-b04e-7e6d0359ea91.jpg)
 
 ---
 # Software Proposal
@@ -505,7 +508,7 @@ The software is divided into 4 sections:
 
 <br/>
 
-![Software proposal](https://user-images.githubusercontent.com/122499832/221631599-f506c8b4-5f93-4796-b639-2d4937a4d93f.PNG)
+![Software proposal](https://user-images.githubusercontent.com/122499832/224884183-7c1c6421-7758-4ccf-94c4-9332b08e496e.jpg)
 
 <br/>
 
