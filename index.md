@@ -483,9 +483,7 @@ Our group 307 sat and researched multiple chips that would work best for our ele
 
 The voltage regulator and MCC sub systems were designed Sam Masamitsu. The switching voltage regulator takes +9V and brings it down to 3.3V which is used by the MCC, the two sensors, and the motor actuator. The MCC communicates with the temperature and humidity sensor to send readings via ESP32 to a computer. It also tells the motor driver when to activate the mister changing the humidity within the enclosed enviroment. This meets the user needs by measuring a minimum of two atmospheric readings and having an acuator that activates in response to the sensors. The MCC will communicate via I2C wit the sensors and ISP with the motor driver. The design was primarly driven by the team's understanding of what the system requirements were. The team decided to use sensors that were already being tested in class to mitigate the amount of unknown issues. 
 
-<br/>
 
-![Hardware proposal](https://user-images.githubusercontent.com/122499832/224883252-77c22bdd-7ef4-4a4f-af9c-c1d73b988ae1.jpg)
 
 <br/>
 
