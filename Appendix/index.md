@@ -229,3 +229,21 @@ Rational: The HIH6030 Sensor is manufactured by Honeywell and has the ability to
 **Choice:** Option 3
 
 Rational: The class requirement needs us to  use a switching voltage regulator. This one matches this requirement as well as is in the proper voltage range of 3.3V. It also will provide enough amperage for running all of our schematics.
+
+
+<br/>
+
+---
+# Appendix E: Microcontroller Selection
+---
+
+<br/>
+
+![MC1](https://user-images.githubusercontent.com/122499832/233201648-2a1aaf86-0ad2-45cb-a210-61b6be082864.jpg)
+
+![MC2](https://user-images.githubusercontent.com/122499832/233202329-032bab6a-e39d-46b5-8531-9c4746b535fd.jpg)
+
+![MC3](https://user-images.githubusercontent.com/122499832/233202340-4e3bf108-5f12-4d56-bec2-9dbd4e760f50.jpg)
+
+![MC4](https://user-images.githubusercontent.com/122499832/233202355-189f4310-6355-4148-926f-41ec487f286f.jpg)
+

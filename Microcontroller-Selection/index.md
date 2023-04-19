@@ -22,3 +22,7 @@ Our group 307 sat and researched multiple chips that would work best for our ele
 <br/>
 
 ![Microcontroller selection](https://user-images.githubusercontent.com/122499832/221628253-5316b9a2-1428-466b-bac0-d7ffb6f6fb1c.PNG)
+
+<br/>
+
+This is an overview of our Micrcontroller selection, to see the whole assignment of all three of our initial selections, please refer to the master appendix and scroll down to **Appendix E**.
