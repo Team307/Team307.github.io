@@ -428,7 +428,13 @@ This motor driver is already readily available to us. We did not need to worry a
 
 The class requirement needs us to  use a switching voltage regulator. This one matches this requirement as well as is in the proper voltage range of 3.3V. It also will provide enough amperage for running all of our schematics.
 
+<br/>
+## Component Selection Assignment
 
+For an in depth exploration of all our initial choices for components, please refer to Appendix D in the Appendix section.
+
+
+<br/>
 
 ---
 # Power budget
@@ -515,7 +521,7 @@ The software is divided into 4 sections:
 
 <br/>
 
-In the Main loop; after the system initialized and determines the state of where the software it is at is when our interrupts are enabled. This is where the weather/ climate data is received,  The program then reads sensor data and interprets the data. At this stage of the software is when the system enables the interrupt,  if the required value isn't read then it will loop back until a value that is read signals to engage the mister.
+When looking at our user needs/project requirements there were specific points we had to make sure that our code met. One requirement is we need to make sure that we include interrupts in the software which can be found in the Main loop; after the system initializes and determines the state of where the software it is at is when our interrupts are enabled. This is where the weather/ climate data is received, The program then reads sensor data and interprets the data. At this stage of the software is when the system enables the interrupt, if the required value isn’t read then it will loop back until a value that is read signals to engage the mister. This meets our requirement of needing an actuator that is controlled based on data that was being read by a sensor. Our sensor that is used for this requirement is our humidity sensor. EUSART will also be used to communicate data to the ESP32 and this will then be transmitted on WiFi to meet that connectivity requirement as well. We are also using both I^2C and SPI serial communication to meet that requirement as well as our sensors use I^2C and our motor driver uses SPI.
 
 ---
 # Master Appendix

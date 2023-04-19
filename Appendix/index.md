@@ -156,3 +156,76 @@ I fully commit to the items above and understand that contributing to the effect
 ![Sorted 3](https://user-images.githubusercontent.com/122499998/213981500-e4d88b9b-0c38-47d5-ac71-fc95f6d453c4.jpg)
 
 ![Sorted 4](https://user-images.githubusercontent.com/122499998/213981526-6a1d02fb-08a7-47e3-8d40-32f81b02ce92.jpg)
+
+<br/>
+
+---
+# Appendix D: Component Selection
+---
+
+## Major Components
+
+* Motor Driver
+* Motor
+* Temperature Sensor
+* Humidity Sensor
+* Microcontroller
+* Voltage Regulator
+
+<br/>
+
+## Motor Driver
+
+![Motor Driver Selection](https://user-images.githubusercontent.com/122499832/233194814-527f4fdf-575b-4852-a813-cd39be01e555.jpg)
+
+<br/>
+
+
+**Choice:** Option 1
+
+Rational: This motor driver is already readily available to us. We did not need to worry about order times and so we could already start working and troubleshooting with this device. Due to already using it for a previous assignment, we are already familiar with how it operates and works. It meets our requirements and is able to complete the desired function needed for our design.
+
+<br/>
+
+## Motor
+
+![Motor Selection](https://user-images.githubusercontent.com/122499832/233196368-9e4dea89-e42e-4fa1-bed1-875366cfd3de.jpg)
+
+
+**Choice:** Option 3
+
+Rational: Due to the long shaft, it will be easy to mount with the spray bottle for use we are looking for. It also has a voltage that fits on the voltage rail we are looking for. Also due to it being a smaller motor it will have a lower amperage cost.
+
+<br/>
+
+## Temperature Sensor
+
+![Temp Sensor](https://user-images.githubusercontent.com/122499832/233197866-ceb4f166-b3db-494c-b143-24105b59bddc.jpg)
+
+
+**Choice:** Option 1
+
+Rational: This sensor is one that we will be using in class, so we will be familiar with how the sensor works as well as we will not need to worry about waiting for shipping. While small we know it is possible to solder this component as we have already done so. 
+
+
+<br/>
+
+## Humidity Sensor
+
+![Humidity sensor selection](https://user-images.githubusercontent.com/122499832/233197623-946b4ff7-f442-4b2a-b0f2-ec5d32319de5.jpg)
+
+
+**Choice:** Option 1
+
+Rational: The HIH6030 Sensor is manufactured by Honeywell and has the ability to sense humidity and temperature, however, our group will only be implementing the humidity sensor for this component. It is very accurate and has the most workable footprint which will be important as we will be soldering these parts on ourselves.
+
+<br/>
+
+## Voltage Regulator
+
+![voltage regulator](https://user-images.githubusercontent.com/122499832/233198249-5a5f405f-075e-415b-9188-50dfa3e097ff.jpg)
+
+
+**Choice:** Option 3
+
+Rational: The class requirement needs us to  use a switching voltage regulator. This one matches this requirement as well as is in the proper voltage range of 3.3V. It also will provide enough amperage for running all of our schematics.
