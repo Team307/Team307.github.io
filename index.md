@@ -249,11 +249,19 @@ The product research and design will focus on materials that will correctly dete
 
 -	Will the battery be replaceable or rechargeable?
 
+**We will be using a replaceable battery and will also provide ourselvs a battery backup incase unseen issues happen.**
+
 -	Can we improve the battery life and reduce the amount of battery recharge?
+
+**We can improve battery life if we have the design connected to a power source that connects to the wall.**
 
 -	Are there better materials that can be applied to the product other than plastic while still remaining cost-effective?
 
+**Our group determined that plastic was the cheapest option.**
+
 -	Can we improve on the customization of the software so the user can choose what environmental condition to focus collecting data on?
+
+**Are Team did not have enough time to test and debug the software to includ the option where a user can control environmental conditions.**
   
 <br/>  
   
