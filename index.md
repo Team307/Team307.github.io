@@ -593,6 +593,31 @@ Please refer to the **Master Appendix** and scroll down to **Appendix H** to vie
 # Lessons Learned
 ---
 
+There are many lessons learned that group 314 had gained by the end of this semester and completing our final project. Some of these lessons would have been great to know about prior to the class starting and deciding how our group would approach our project. Below is a list of our ten mos important lessons that we have learned throughout this semester.
+
+1. Utizile as many parts as possible from room 109.
+
+2. Wear protective gear when using a solderer.
+
+3. Finish assignments before the due date to give us more time to troubleshoot.
+
+4. Reference pin numbers and label signals when designing block diagram.
+
+5. Understand the course requirements, read what we are allowed to use before getting something before its to late and have to go do more research.
+
+6. The basic skills on how to solder.
+
+7. Trying to make a simple project definitely did not go as simple as we wanted it.
+
+8. Order more parts than you think will be enough, we thought we ordered just enough and we were wrong.
+
+9. Creating a PCB design is very time consuming and small errors can set you behind or call for a redo because the PCB becomes unmanufacturable.
+
+ 10. Dont buy a MacBook for an engineering course, one of the biggest lessons learned for one of our group members because you cant utilze and software on ios.
+ 
+These are the top ten lessons that our group felt were learned throughout the semester. There have definitely been more learning curves than what were listed but we felt that these were the lessons that needed to be mentioned.
+
+
 <br/>
 
 ---
