@@ -342,13 +342,15 @@ In our second design concept, we will have an enclosed water reservoir with a sp
 ## Summary
 
 
-The Block Diagram is essential for our electrical system design and clearly illustrates which subsystem belongs to who. Each group member is in charge of testing and debugging in order to verify that the subsystem works and is prepared to be tested for the completed subsystem. For Team 307's approach on our block Diagram, we organized the important architecture of our hardware and displayed how the systems are interconnected for working functionality. Included in this Diagram is our ESP32 WiFi modulator which allows for RX/TX communication which allows for sending and receiving information, our Humidity Sensor, and our temperature sensor which meets the criteria for this course to include two serial sensors, the MicroController and the Motor/Motor Driver which fulfills the actuator requirement for our design. 
+The team's original block diagram received feedback from the professors and the teaching team and made comments on some issues that needed to be resolved. These issues included missing manufacturers for all parts excluding the MCU. We also received comments that UART is not a parallel interface, as well as being told that our ICSP uses more than one pin. Some other feedback on our block diagram was that our labels required more information when it came to labeling serial interfaces as well as some arrows that were being implemented wrong and needed a tidy cleanup before our group could publish the final block diagram design. You will see below that our Final Block Diagram reflects all those changes. 
 
 
 
 <br/>
 
-![Updated Block Diagram](https://user-images.githubusercontent.com/122499832/224817966-a243a1db-2273-44ef-b5c6-642bce38d7ce.PNG)
+![Block Diagram-314-Team-307](https://user-images.githubusercontent.com/122499832/233797627-bc5bec8d-46c7-45b3-86f6-a193508a950d.jpg)
+
+The Block Diagram is essential for our electrical system design and clearly illustrates which subsystem belongs to who. Each group member is in charge of testing and debugging in order to verify that the subsystem works and is prepared to be tested for the completed subsystem. For Team 307’s approach on our block Diagram, we organized the important architecture of our hardware and displayed how the systems are interconnected for working functionality. Included in this Diagram is our ESP32 WiFi modulator which allows for RX/TX communication which allows for sending and receiving information, our Humidity Sensor, and our temperature sensor which meets the criteria for this course to include two serial sensors, the MicroController and the Motor/Motor Driver which fulfills the actuator requirement for our design. To see the team's original block Diagram please refer to the **Master Appendix** and scroll to **Appendix F: Original Block Diagram**.
 
 
 ---
