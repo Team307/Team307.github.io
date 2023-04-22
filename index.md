@@ -517,9 +517,25 @@ Please refer to the **Master Appendix** and scroll to **Appendix G** for a view 
 
 ## Team PCB Front & Back Screen Shots
 
+**Top**
+
+![PCB TOP](https://user-images.githubusercontent.com/122499832/233799141-aaa4fe73-3da3-4b04-b1c8-b0ad2b927000.PNG)
+
+**Bottom**
+
+![PCB Bottom](https://user-images.githubusercontent.com/122499832/233799144-8aabca42-8ce5-4b31-b526-f03965200009.PNG)
+
 <br/>
 
 ## Team PCB Front & Back Photos
+
+**Top**
+
+![Top PCB pic](https://user-images.githubusercontent.com/122499832/233799145-90254991-64fb-4162-84d9-ae4a12d27a52.jpg)
+
+**Bottom**
+
+![Bottom PCB pic](https://user-images.githubusercontent.com/122499832/233799147-61b67a27-15dd-411d-822c-e45ca14dba93.jpg)
 
 
 <br/>
