@@ -257,3 +257,15 @@ Rational: The class requirement needs us to  use a switching voltage regulator. 
 <br/>
 
 ![Updated Block Diagram](https://user-images.githubusercontent.com/122499832/224817966-a243a1db-2273-44ef-b5c6-642bce38d7ce.PNG)
+
+
+
+<br/>
+
+---
+# Appendix G: Team Bill Of Materials
+---
+
+<br/>
+
+![Hardware proposal: BOM](https://user-images.githubusercontent.com/122499832/224884751-1d075938-44c8-49a7-b04e-7e6d0359ea91.jpg)

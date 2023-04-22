@@ -513,7 +513,20 @@ The voltage regulator and MCC sub systems were designed Sam Masamitsu. The switc
 
 <br/>
 
-![Hardware proposal: BOM](https://user-images.githubusercontent.com/122499832/224884751-1d075938-44c8-49a7-b04e-7e6d0359ea91.jpg)
+Please refer to the **Master Appendix** and scroll to **Appendix G** for a view of our Bill of Materials.
+
+## Team PCB Front & Back Screen Shots
+
+<br/>
+
+## Team PCB Front & Back Photos
+
+
+<br/>
+
+## Hardware design Version 2.0 Discussion
+
+<br/>
 
 ---
 # Software Proposal
@@ -537,6 +550,40 @@ The software is divided into 4 sections:
 <br/>
 
 When looking at our user needs/project requirements there were specific points we had to make sure that our code met. One requirement is we need to make sure that we include interrupts in the software which can be found in the Main loop; after the system initializes and determines the state of where the software it is at is when our interrupts are enabled. This is where the weather/ climate data is received, The program then reads sensor data and interprets the data. At this stage of the software is when the system enables the interrupt, if the required value isn’t read then it will loop back until a value that is read signals to engage the mister. This meets our requirement of needing an actuator that is controlled based on data that was being read by a sensor. Our sensor that is used for this requirement is our humidity sensor. EUSART will also be used to communicate data to the ESP32 and this will then be transmitted on WiFi to meet that connectivity requirement as well. We are also using both I^2C and SPI serial communication to meet that requirement as well as our sensors use I^2C and our motor driver uses SPI.
+
+<br/>
+
+## Top 5 biggest Changes
+
+<br/>
+
+## Software  Design Version 2.0 Discussion
+
+<br/>
+
+## MQTT Topic Table & COde
+
+Please refer to the **Master Appendix** and scroll down to **Appendix H** to view our teams MQTT and Code.
+
+<br/>
+
+---
+# System Verification
+---
+
+<br/>
+
+---
+# Lessons Learned
+---
+
+<br/>
+
+---
+# Recommendations For Future Students
+---
+
+<br/>
 
 ---
 # Master Appendix
