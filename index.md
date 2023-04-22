@@ -577,7 +577,7 @@ When looking at our user needs/project requirements there were specific points w
 
 <br/>
 
-## MQTT Topic Table & COde
+## MQTT Topic Table & Code
 
 Please refer to the **Master Appendix** and scroll down to **Appendix H** to view our teams MQTT and Code.
 
@@ -614,7 +614,7 @@ There are many lessons learned that group 314 had gained by the end of this seme
 9. Creating a PCB design is very time consuming and small errors can set you behind or call for a redo because the PCB becomes unmanufacturable.
 
  10. Dont buy a MacBook for an engineering course, one of the biggest lessons learned for one of our group members because you cant utilze and software on ios.
- 
+
 These are the top ten lessons that our group felt were learned throughout the semester. There have definitely been more learning curves than what were listed but we felt that these were the lessons that needed to be mentioned.
 
 
