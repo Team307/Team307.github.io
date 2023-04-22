@@ -495,7 +495,7 @@ This is an overview of our Micrcontroller selection, to see the whole assignment
 
 
 ---
-# Hardware Proposal
+# Hardware Implementation
 ---
 
 <br/>
@@ -545,7 +545,7 @@ Please refer to the **Master Appendix** and scroll to **Appendix G** for a view 
 <br/>
 
 ---
-# Software Proposal
+# Software Implementation
 ---
 
 ## Software Approach
