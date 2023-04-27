@@ -571,6 +571,20 @@ When looking at our user needs/project requirements there were specific points w
 
 ## Top 5 biggest Changes
 
+The software design process proved to be challenging in many ways and forced our team to make significant changes to our original software design in order to get our product to work succesfully. these are the five biggest changes that our team made to the software and code.
+
+1. Changet getchar to intget to allow the pic to use Eusart to the ESP32
+
+2. Removed while loops that were supposed to output values simultanously for the temperature sensor and the humidity sensor.
+
+3. Wrote functions to call to, to streamline to Main C.
+
+4. Had to remove interupts due to interfering with the code.
+
+5. Changed The WiFi address for MQTT to Hotspot off a personal phone in order to get a better connection from the ESP32.
+
+In the end, majority of the changes that we made to our code proved to be pointless because everything that we changed proved to not be beneficial because we couldnt get the Esp3n and he humidity sensor to work.
+
 <br/>
 
 ## Software  Design Version 2.0 Discussion
