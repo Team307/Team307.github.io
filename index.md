@@ -543,7 +543,7 @@ Please refer to the **Master Appendix** and scroll to **Appendix G** for a view 
 ## Hardware design Version 2.0 Discussion
 
 <br/>
-
+As a team there are several changes that we would make to our design. First of all, there would be an inclusion of more debugging LEDs to assist in the trouble shooting of the board. We would also make the sensors on daughter boards so we could have more freedom in where we placed the board. In regards to running traces, we would have both of the I2C sensors on the same I2C pins for the PIC to leave a pins open for the SPI motor driver. Lastly, we would have added a pad for a 330 uf capacitor to rectify the signal post inductor of the variable power regulator.
 ---
 # Software Implementation
 ---
