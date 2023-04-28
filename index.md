@@ -639,9 +639,9 @@ These are the top ten lessons that our group felt were learned throughout the se
 ---
 
 
-EGR 314 is just as an emotional roller coaster ride as EGR 304 is only you more prepared for the crushing feelings this time around. There have been many moments where our group felt that our project was running smoothly and there were times that our group felt like switching majors or waiting for Aukes to go on sabbatical and wait for a professor with a more realistic view and human emotions to reconstruct the electrical systems course. With that being said, our group came together and discussed a list of recommendations for not only future EGR 314 students but for 304 students as well. This list is meant to be viewed as a recommendation for it is based on opinions and our group's view of how the course went for us.
+EGR 314 is just as an emotional roller coaster ride as EGR 304 is only you more prepared for the crushing feelings this time around. There have been many moments where our group felt that our project was running smoothly and there were times that our group felt like switching majors. With that being said, our group came together and discussed a list of recommendations for not only future EGR 314 students but for 304 students as well. This list is meant to be viewed as a recommendation for it is based on opinions and our group's view of how the course went for us.
 
-1. If you have an option between Cadence or Kicad in your 304 course, do yourself a favor and do not use Kicad and force yourself to go through the pain of Cadence. This will benefit you greatly because you will have a better idea of the ins and outs of cadence than we did consider we were handed a program and told “Good Luck”.
+1. If you have an option between Cadence or Kicad in your 304 course, do yourself a favor and do not use Kicad and force yourself to go through the pain of Cadence. This will benefit you greatly because you will have a better idea of the ins and outs of cadence than we did.
 
 2. Give yourself some time to understand MPLabX, it is a very touchy software and can be tedious many times when using it for different Microcontrollers.
 
