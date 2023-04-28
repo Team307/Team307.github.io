@@ -459,7 +459,7 @@ Each of our components was easily accessible from the distributors purchasing si
 
 <br/>
 
-![Power Budget](https://user-images.githubusercontent.com/122499832/221688349-ea4c20e0-cd1e-46c1-8aa1-41d0110068a6.PNG)
+![updated power budget](https://user-images.githubusercontent.com/122499832/235246667-4a5fab0e-642d-444c-ab76-3b8614dc8dbf.jpg)
 
 <br/>
 
@@ -600,6 +600,8 @@ Please refer to the **Master Appendix** and scroll down to **Appendix H** to vie
 ---
 # System Verification
 ---
+
+![Final VOC](https://user-images.githubusercontent.com/122499832/235246699-42ed309a-8747-4eb6-b522-8cb0795b05ab.jpg)
 
 <br/>
 
