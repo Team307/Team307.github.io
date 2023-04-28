@@ -278,12 +278,17 @@ Rational: The class requirement needs us to  use a switching voltage regulator. 
 # Appendix H: MQTT & PIC Code
 ---
 
-<br/r>
+<br/>
 
 ![Topic](https://user-images.githubusercontent.com/122499998/235216091-8686b6fc-fce7-4e7c-8b9d-a43471017788.png)
 
-<br/r>
-
+<br/>
+  <br/>
+  
+  Main.C Code
+  
+  <br/>
+  
 #include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/examples/i2c2_master_example.h"
 #include "mcc_generated_files/i2c2_master.h"
