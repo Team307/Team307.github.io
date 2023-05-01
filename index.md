@@ -543,7 +543,9 @@ Please refer to the **Master Appendix** and scroll to **Appendix G** for a view 
 ## Hardware design Version 2.0 Discussion
 
 <br/>
-As a team there are several changes that we would make to our design. First of all, there would be an inclusion of more debugging LEDs to assist in the trouble shooting of the board. We would also make the sensors on daughter boards so we could have more freedom in where we placed the board. In regards to running traces, we would have both of the I2C sensors on the same I2C pins for the PIC to leave a pins open for the SPI motor driver. Lastly, we would have added a pad for a 330 uf capacitor to rectify the signal post inductor of the variable power regulator.
+
+As a team, there are several changes that we would make to our design. First of all, there would be an inclusion of more debugging LEDs to assist in the troubleshooting of the board. This would help our team by lighting up and showing which components are having issues and would have saved us time by going through each individual component and investigating what our issue could possibly be. We would also make the sensors on daughter boards so we could have more freedom in where we placed the board. In regards to running traces, we would have both of the I2C sensors on the same I2C pins for the PIC to leave pins open for the SPI motor driver. Lastly, we would have added a pad for a 330 uf capacitor to rectify the signal post inductor of the variable power regulator.
+
 ---
 # Software Implementation
 ---
@@ -571,23 +573,28 @@ When looking at our user needs/project requirements there were specific points w
 
 ## Top 5 biggest Changes
 
-The software design process proved to be challenging in many ways and forced our team to make significant changes to our original software design in order to get our product to work succesfully. these are the five biggest changes that our team made to the software and code.
+The software design process proved to be challenging in many ways and forced our team to make significant changes to our original software design in order to get our product to work successfully. these are the five biggest changes that our team made to the software and code.
 
-1. Changet getchar to intget to allow the pic to use Eusart to the ESP32
 
-2. Removed while loops that were supposed to output values simultanously for the temperature sensor and the humidity sensor.
+1. Changes getchar to int get to allow the pic to use Eusart to the ESP32
 
-3. Wrote functions to call to, to streamline to Main C.
+2. Removed while loops that were supposed to output values simultaneously for the temperature sensor and the humidity sensor.
 
-4. Had to remove interupts due to interfering with the code.
+3. Wrote functions to call, to streamline Main C.
+
+4. Had to remove interrupts due to interfering with the code.
 
 5. Changed The WiFi address for MQTT to Hotspot off a personal phone in order to get a better connection from the ESP32.
 
-In the end, majority of the changes that we made to our code proved to be pointless because everything that we changed proved to not be beneficial because we couldnt get the Esp3n and he humidity sensor to work.
+In the end, the majority of the changes that we made to our code proved to be pointless because everything that we changed proved to not be beneficial because we couldn't get the Esp3n and the humidity sensor to work.
+
 
 <br/>
 
 ## Software  Design Version 2.0 Discussion
+
+Our team ran into issue after issue with our code, we believe that our software diagram was great and represented a clear and concise run with how our software ran and was outlined but all our group's issues were within the code. For starters, our team focused on using components that were used for in-class check-offs as well as homework assignments because we believed in staying with a component that we have familiarized ourselves with. each sensor originally had working code, but when it came to debugging and having the code for each system run simultaneously, we ran into roadblocks. with the 2.0 version, we would focus on creating a code that involves all systems running smoothly. In order to achieve this we would divide the code by each team member that falls in their subsystem and request to have two or more working formats of code. this would allow us to have more options to choose from when it comes to building and debugging. We believe this would be beneficial because the code that we originally had working was no longer working for our system and having more working code to choose from would be helpful. After successfully getting the code, our group would then make sure that our software diagram flows the same way that our code flows.
+
 
 <br/>
 
